@@ -1,3 +1,3 @@
 From centos
 MAINTAINER Jey
-RUN echo "Hello Workd" >myfile
+RUN echo "Hello World" >myfile
